@@ -3,3 +3,5 @@ title: Augustina Ashie
 show_downloads: false
 theme: jekyll-theme-cayman
 # remote_theme: pages-themes/minimal@v0.2.0
+exclude:
+  - assets
