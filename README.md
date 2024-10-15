@@ -1,8 +1,8 @@
-# augustina2023.github.io/portfolio
+##### augustina2023.github.io/portfolio
 
 #### Aspiring Bioinformaticiam/Computational Biologist
-#
-#
+##
+##
 #
 
 ## Education
@@ -19,16 +19,16 @@ Durham College, Oshawa, ON
 #### Honours Bachelor of Science, Biology, *2013 – 2017* 
 Wilfrid Laurier University, Waterloo, ON
 
-#
-#
+##
+##
 
 ## Projects
 1. *2023- 2024*: Investigating the effects of maternal health status on the human milk microbiomes of mothers in the CHILD Cohort Study.
 - Supervisor: Dr. Qingling Duan
 - Used high performance computing, R, and Linux programming to employ data analysis and genomic analysis techniques on large, complex datasets.
 
-#
-#
+##
+##
 
 ## Work Experience
 ### Analyst I - Microbiology, *2021 – 2023*
