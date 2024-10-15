@@ -1,7 +1,7 @@
 ##### augustina2023.github.io/portfolio
 
 ## Aspiring Bioinformaticiam/Computational Biologist
-
+![Photo](/assets/IMG_7794_edit.jpg)
 
 ## Education
 #### Master of Biomedical Informatics, Biomedical Informatics, *2023 – 2024*
